@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: #FFE4D9;
+}
+
+#title{
+    color: #573632;
+    font-size: 120px
+}
+
+.text{
+    color: #92362a;
+    font-size: 60px 
+}
+
+#list{
+    color: #92362a;
+    font-size: 40px 
+}
+
+.button{
+    cursor: pointer;
+    background-color: #FFE4D9;
+    color: #92362a;
+    font-size: 50px;
+    border: 4px solid #92362a;
+    border-radius: 13px;
+}
+
+.button:hover{
+    background-color: #92362a;
+    color: #FFE4D9; 
+}
+
+#thatlist{
+    color: #92362a;
+    font-size: 60px
+}
